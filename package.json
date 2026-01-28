@@ -1,7 +1,7 @@
 {
   "name": "jsonresume-theme-lajtha-compact",
   "version": "1.0.0",
-  "description": "",
+  "description": "A compact, single-column JSON Resume theme with a clean style.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/lajthabalazs/jsonresume-theme-lajtha-compact.git"
   },
-  "keywords": [],
+  "keywords": [
+    "jsonresume",
+    "resume",
+    "cv",
+    "theme",
+    "compact"
+  ],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
